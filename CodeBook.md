@@ -15,8 +15,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Extract only measurements on Mean and Standard deviation  and subset it on the mergeSet. The attributes are reduced from  561 to 66.
 * Use descriptive activity names to name the activities in the data set by reading activity_labels.txt
 * Provide appropriate labels to the data set with descriptive variable names.
-..* Remove '()' and '-' symbols
-..* Capitalise 'M' and 'S' 
+??* Remove '()' and '-' symbols
+??* Capitalise 'M' and 'S' 
 * Combine mergeSet, mergeLabels and mergeSubject data frames to a new cleaned data frame -> cleanedData, using cbind.
 * The attributes for mergeLabels and mergeSubject are named 'activity' and 'subject' respectively
 * Finally, write the cleanedData data frame to 'merged_data.txt' file in current working directory
