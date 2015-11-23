@@ -8,6 +8,74 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 The data for the project can be downloaded on:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+### Measurements
+* tBodyAccMeanX 
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
+* tBodyAccStdY
+* tBodyAccStdZ
+* tGravityAccMeanX
+* tGravityAccMeanY
+* tGravityAccMeanZ
+* tGravityAccStdX
+* tGravityAccStdY
+* tGravityAccStdZ
+* tBodyAccJerkMeanX
+* tBodyAccJerkMeanY
+* tBodyAccJerkMeanZ
+* tBodyAccJerkStdX
+* tBodyAccJerkStdY
+* tBodyAccJerkStdZ
+* tBodyGyroMeanX
+* tBodyGyroMeanY
+* tBodyGyroMeanZ
+* tBodyGyroStdX
+* tBodyGyroStdY
+* tBodyGyroStdZ
+* tBodyGyroJerkMeanX
+* tBodyGyroJerkMeanY
+* tBodyGyroJerkMeanZ
+* tBodyGyroJerkStdX 
+* tBodyGyroJerkStdY
+* tBodyGyroJerkStdZ
+* tBodyAccMagMean
+* tBodyAccMagStd
+* tGravityAccMagMean
+* tGravityAccMagStd
+* tBodyAccJerkMagMean
+* tBodyAccJerkMagStd
+* tBodyGyroMagMean
+* tBodyGyroMagStd
+* tBodyGyroJerkMagMean
+* tBodyGyroJerkMagStd
+* fBodyAccMeanX
+* fBodyAccMeanY
+* fBodyAccMeanZ
+* fBodyAccStdX
+* fBodyAccStdY
+* fBodyAccStdZ
+* fBodyAccJerkMeanX
+* fBodyAccJerkMeanY
+* fBodyAccJerkMeanZ
+* fBodyAccJerkStdX
+* fBodyAccJerkStdY
+* fBodyAccJerkStdZ
+* fBodyGyroMeanX
+* fBodyGyroMeanY
+* fBodyGyroMeanZ
+* fBodyGyroStdX
+* fBodyGyroStdY
+* fBodyGyroStdZ
+* fBodyAccMagMean
+* fBodyAccMagStd
+* fBodyBodyAccJerkMagMean
+* fBodyBodyAccJerkMagStd
+* fBodyBodyGyroMagMean
+* fBodyBodyGyroMagStd
+* fBodyBodyGyroJerkMagMean
+* fBodyBodyGyroJerkMagStd
+
 ### Works Performed
 * Read train and test sets, labels and subjects and store them in separate variables
 * Combine train and test sets, labels and subjects into data frame variables :- mergeSet, mergeLabels, mergeSubject respectively
